@@ -1,0 +1,60 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #343a40;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.mb-10 {
+  margin-bottom: 10px;
+}
+
+.mb-15 {
+  margin-bottom: 15px;
+}
+
+.mb-20 {
+  margin-bottom: 20px;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.mt-15 {
+  margin-top: 15px;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.mr-5 {
+  margin-right: 5px;
+}
+
+.mr-10 {
+  margin-right: 10px;
+}
+
+.alert {
+  padding: 0.5rem 0.5rem;
+}
+
+.borde-radius {
+  border-radius: 4px;
+}
+
+/* footer */
+
+/* footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+} */
